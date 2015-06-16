@@ -1,9 +1,9 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
+  "name": "WP News",
+  "description": "Your source for all things related to WordPress.",
   "repository": "https://github.com/TelescopeJS/sample-project/",
   "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "keywords": ["wordpress", "social", "community"],
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
